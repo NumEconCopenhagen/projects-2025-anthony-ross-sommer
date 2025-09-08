@@ -1,9 +1,9 @@
-# [Group name]
+# [Anthony-Ross-Sommer]
 
 **Group members:**
-- A
-- B
-- C
+- Frederik Anthony 
+- Magnus Ross Zangenberg 
+- Sille Sommer Plannthin 
 
 **This repository contains:***
 
